@@ -1,14 +1,3 @@
----
-TQ_show_created_date:
-  "{ date }":
-tags:
-  - discord-bot
-  - documentation
-  - manual
-status: Draft
-bot_version: 1.0.0
-developer: Me
----
 # 🏇 Manual de Usuario - UmaDisBot
 
 ¡Bienvenido, Entrenador! Este bot te permite coleccionar, entrenar y competir con tus Uma Musumes favoritas directamente en Discord.  

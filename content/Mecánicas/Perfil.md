@@ -1,0 +1,1 @@
+La manera en que te verán otros usuarios. Puedes personalizarlo a cambio de algunas monedas.

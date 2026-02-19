@@ -10,4 +10,5 @@ La experiencia definitiva de Uma Musume llega a tu servidor. Obtén cartas legen
 _Contenido exclusivo..._
 
 👉 **[¡Añade UmaDSBot ahora y empieza a correr!]**
-![[Pasted image 20260218200443.png]]
+
+![[Main.png]]

@@ -1,0 +1,1 @@
+Puedes crear presets de cartas de soporte para usar en tus entrenamientos
