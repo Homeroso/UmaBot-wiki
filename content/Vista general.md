@@ -9,7 +9,7 @@
 
 2. **Bono Diario**: Usa `/daily` cada 24 horas para mantener tus fondos.
 
-3. **Consulta Mecánicas**: Si quieres saber cómo funcionan las probabilidades o el entrenamiento, revisa [MECHANICS.md](./MECHANICS.md).
+3. **Consulta las guías:** Si no sabes por donde comenzar a jugar, puedes ir a [[Primeros pasos]]
 
 ---
 ## 💰 Economía y Progreso
@@ -20,11 +20,6 @@ Mantén tus recursos bajo control:
 
 - [`/daily`](/Comandos/Daily): Reclama tu recompensa diaria.
 
-- [`/missions`](/Comandos/Missions): Gestiona tus misiones diarias. Usa `/missions claim` para cobrar.
-
-- [`/achievements`](/Comandos/Achievements): Revisa tus logros desbloqueados.
-
-- [`/ranking`](/Comandos/Ranking): Mira quién es el mejor entrenador del servidor.
 
 ---
 ## 🎰 Gacha (Reclutamiento)
@@ -51,28 +46,12 @@ La información completa de este sistema la puedes encontrar en [Sistema de gach
 
 ## 🏃‍♀️ Carrera y Entrenamiento
 
-El corazón del juego. Entrena a tus UMAs para que sean las mejores:
 
-1. **Configuración**: [`/careersetup`](Career%20setup.md). Elige a tu UMA y hasta 5 cartas de soporte.
-
-2. **Inicio**: [`/careerstart`](/Comandos/Careerstart). Comienza la sesión de 24 turnos.
-
-Más detalles en 
 
 ---
 ## 🏁 Competición y Catálogo
 
-- [`/race`](/Comandos/Race): Carrera individual contra otro usuario (**Carrera amistosa, no otorga recompensas**).
-
-- [`/challenge`](/Comandos/Challenge): Desafía a otros entrenadores.
-
-- [`/seeumas`](/Comandos/Seeumas): Tu colección de UMAs.
-
-- [`/seecards`](/Comandos/Seecards): Tus cartas de soporte.
-
-- [`/seetrainees`](/Comandos/Seetrainees): Listado de tus UMAs ya entrenadas y sus rangos (G hasta UF).
-
-- [`/ascend`](/Comandos/Ascend): Mejora tus UMAs y cartas usando copias repetidas.
+- 
 
   
 

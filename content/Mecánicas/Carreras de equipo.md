@@ -1,1 +1,0 @@
-Uno de los ejes fundamentales del bot está en las carreras por equipos. Construye tu equipo con tus mejores umas y compite contra otros usuarios

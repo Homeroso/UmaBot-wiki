@@ -11,4 +11,6 @@ _Contenido exclusivo..._
 
 👉 **[¡Añade UmaDSBot ahora y empieza a correr!]**
 
+ℹ️ [Vista general](Vista%20general)
+
 ![[Main.png]]
