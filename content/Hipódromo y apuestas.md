@@ -1,0 +1,1 @@
+Semanalmente, los usuarios pueden competir en carreras correspondientes a la liga en la que se encuentran. Antes de esas carreras, puedes realizar apuestas, eligiendo a tu favorita para llevarse la carrera o quedar dentro del top 3

@@ -11,6 +11,5 @@ _Contenido exclusivo..._
 
 👉 **[¡Añade UmaDSBot ahora y empieza a correr!]**
 
-ℹ️ [Vista general](Vista%20general)
-
-![[Main.png]]
+ℹ️ [Más informacióni](UmaCord%20Wiki.md)
+![[Legendary Multi.png]]
