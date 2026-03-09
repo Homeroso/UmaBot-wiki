@@ -22,8 +22,36 @@ Para poder realizar una sesión de entrenamiento, debes cumplir las siguientes c
 - Tener al menos una Uma en el equipo
 - Cooldown de una hora completado
 
-Durante una sesión de entrenamiento, podrás decidir que entrenar para cada una de tus Umas de distintas maneras:
-- **Todas por igual:** selecciona la estadística en la que te quieras enfocar, y las 3 Umas entrenaran para mejorarla
-- **Personalizado:** selecciona en qué estadística se enfocara cada una de tus Umas en esa sesión
+Durante una sesión de entrenamiento, podrás decidir que entrenar para cada una de tus Umas con los selectores que te proporciona el bot. Cada uno de estos corresponde a una Uma de tu equipo, por orden de slot
+![[Train_01.png]]
+>[!TIP]
+>En estos selectores aparece por defecto la última estadística que entrenaste, por lo que si deseas repetir una sesión, solo debes dar click en confirmar inmediatamente
 
-Antes de realizar un entrenamiento, el bot te mostrará cuales son las condiciones para esa sesión. Está información influye en la ganancia de estadísticas, y será clave para mejorar la eficiencia de los entrenamientos
+Antes de realizar un entrenamiento, el bot te mostrará las condiciones del clima, y el mood de cada una de tus Umas. Esta información es importante, pues afecta los resultados del entrenamiento.
+#### Clima
+Modificador global, afecta a todos los usuarios y cambia de manera aleatoria cada 3 horas. Los posibles climas son los siguientes:
+
+|     **Clima**      |                                      **Efecto**                                      |
+| :----------------: | :----------------------------------------------------------------------------------: |
+|    ☀️ Despejado    |                                       Ninguno                                        |
+|     ☁️ Nublado     |                                       Ninguno                                        |
+| 🌧️ Lluvia Ligera  |             -3% de ganancia de **Speed**<br>+3% de ganancia de **Guts**              |
+| 🍃 Brisa Agradable |                     +5% de ganancia a **Todas** las estadísticas                     |
+|   🔥Ola de Calor   | -5% de ganancia de **Stamina**<br>+2% de **probabilidad de fallar** el entrenamiento |
+|    ⛈️ Tormenta     |     -5% de ganancia de **Speed** y **Power**<br>+5% de ganancia de **Guts**<br>      |
+|  ❄️ Nieve Ligera   |           -5% de ganancia de **Speed**<br>+5% de ganancia de **Power**<br>           |
+
+#### Mood
+Afecta la ganancia general de estadísticas de la siguiente manera:
+
+| **Clima** |      **Efecto**      |
+| :-------: | :------------------: |
+|   Great   | +10% de estadísticas |
+|   Good    | +5% de estadísticas  |
+|  Normal   |     Ninguno<br>      |
+|    Bad    | -5% de estadísticas  |
+|   Awful   | -10% de estadísticas |
+El mood tiene una pequeña probabilidad de subir o bajar al finalizar una sesión de entrenamiento. Sin embargo, también cuentas con el comando /recreation, que mejora el mood de todo tu equipo
+
+> [!WARNING]
+> Este comando puedes usarlo una vez cada 5 horas, piensa bien cuando es el momento de hacerlo
